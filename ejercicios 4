@@ -1,0 +1,8 @@
+Ejercicio 4 Reflexión y Tareas
+Preguntas:
+1.-¿Por qué es importante trabajar en ramas separadas?
+Para poder trabajar con uno igual pero que no dañe al archivo original en casos de apagones y error de guardado, tambien para avanzar en el código añadiendo aparte distintos cambios de  código para avanzar colocando códigos y después guardandolo en el servidor principal
+2.-¿Cómo crees que las ramas pueden mejorar el trabajo en equipo?
+Los miembros del equipo pueden avanzar por una rama cada uno y hacen las pruebas poco a poco actualizando y creando otra rama y desarrollandolo y publicandolo al principal
+¿Qué dificultades has encontrado?
+Que te puedes olvidar como ingresar los comandos en el terminal para abrir la rama nueva
